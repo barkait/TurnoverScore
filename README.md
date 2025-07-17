@@ -35,7 +35,7 @@ Welcome to the cellular turnover paper repository! Here you will find the notebo
     conda create -n turnover_env python=3.10
     conda activate turnover_env
     pip install "spatialdata[extra]"
-    pip install plotly adjusttext openpyxl igraph leidenalg
+    pip install plotly adjusttext openpyxl igraph leidenalg dill
     ```
 3. Run
 
