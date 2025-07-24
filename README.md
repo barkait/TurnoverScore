@@ -21,7 +21,7 @@ Welcome to the cellular turnover paper repository! Here you will find the notebo
 ### Expanded View figures
 #### Figure EV1 - Turnover scores of single cells from mouse small intestine.
 - ev_apoptosis/compare_apoptotic_genes.ipynb
-#### Figure EV2 - Selection of markers genes for organs of the upper human GI tract. 
+#### Figure EV2 - Reproducibility and marker stratificatino of NGT fluids
 - fig3/A02-shedding_busslinger.ipynb
 #### Figure EV3 - Spatial turnoverv maps of the human small intestine. 
 - fig3/A03-analyze_harnik.ipynb
