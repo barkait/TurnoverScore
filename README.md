@@ -1,6 +1,6 @@
 # Transcriptomic profiling of shed cells enables spatial mapping of cellular turnover in human organs
 
-Welcome to the cellular turnover paper repository! Here you will find the notebooks related to the publication[1]. You can download all the scripts and thier associated data from Zenodo[2].
+Welcome to the cellular turnover paper repository! Here you will find the notebooks related to the publication[1]. You can download all the scripts and thier associated data from [Zenodo](https://zenodo.org/records/15706697).
 
 ![Figure1](Fig1.jpg)
 
@@ -44,6 +44,5 @@ Welcome to the cellular turnover paper repository! Here you will find the notebo
 - Explore data and run analyses in directories relevant for each figure.
 
 ## To do
-- Add links to this readme file(1,2).
-- 
+- Add links to this readme files(1).
 
